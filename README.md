@@ -1,5 +1,5 @@
 # 💫 About Me:
-</> 👩🏾‍💻 I'm currently attending Per Scholas ; Software Engineering. </><br></> 🌐 I'm looking to new projects like code alongs and more! </><br></> 📎 I'm looking for help in all area(s) front-end areas (HTML, CSS, JavaScript) & Back-end area's (React, Rest, Etc) </><br></> 🧠 I'm currently learnning (5/9- REST APIs with Express)</><br></> 👩🏾‍🎓💐✨️Ask me about : My current student journey </><br></> ❤️‍🔥Fun Fact: Myspace was my first coding experience </><br><br>
+</> 👩🏾‍💻 I'm currently attending Per Scholas ; Software Engineering. </><br></> 🌐 I'm looking to new projects like code alongs and more! </><br></> 📎 I'm looking for help in all area(s) front-end areas (HTML, CSS, JavaScript) & Back-end area's (React, Rest, Etc) </><br></> 🧠 I'm currently learnning (05/20-Aggregations and Performance)</><br></> 👩🏾‍🎓💐✨️Ask me about : My current student journey </><br></> ❤️‍🔥Fun Fact: Myspace was my first coding experience </><br><br>
 
 
 ## 🌐 Socials:
